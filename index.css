@@ -1,0 +1,38 @@
+body{
+	background-color: rgb(0, 0, 0);
+	color: white;
+	text-align: center;
+}
+h2{
+	margin-top: 10%;
+	font-size: 50px;
+}
+img{
+	border-radius: 50%;
+	height: 250px;
+	width: 250px;
+	transition: width 1s, height 1s, transform 1s;
+}
+img:hover{
+	transform: rotate(360deg);
+}
+div{
+	height: 250px;
+	width: 250px;
+}
+.first{
+	margin-top: 20%;;
+	margin-left: 70%;
+
+}
+.second{
+	margin-top:20%;
+	margin-left: 1000px;
+}
+.third{
+	margin-top: 5%;
+	
+}
+.fle{
+	display:flex;
+}

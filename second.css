@@ -1,0 +1,37 @@
+.header1{
+	border-image-width: 100%;
+	background-color: rgb(0, 0, 0);
+
+	color:white;
+	width:100%;
+	
+}
+
+body{
+	background-color:black
+}
+.head{
+	background-color: red;
+}
+.nav{
+	background-color: rgb(0, 0, 0);
+}
+.item{
+	margin-top: -60px;
+	margin-left: 70px;;
+
+}
+.one{
+	padding-left: 30px;
+}
+#Gallery >img{
+	width: 400px;
+	height:300px ; 
+}
+.img1{
+	padding-left: 70px;
+}
+.carousel-inner >img{
+	width: 100px;
+	height: 100%;
+}

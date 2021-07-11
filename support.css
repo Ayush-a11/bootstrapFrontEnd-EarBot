@@ -1,0 +1,51 @@
+.container{
+	display:flex;
+}
+.info-form{
+	border:1px solid gray;
+	width:700px;
+	height: 550px;
+	
+}
+
+a{
+	font-size:16px;
+}
+label{
+	font-size:20px;	
+	font-weight:normal;
+}
+input[type="text"],[type="email"]{
+	width: 600px;
+	height: 25px;
+}
+input[type="textarea"]
+{
+	width:600px;
+	height: 200px;
+}
+.check{
+	display:flex;
+}
+.info{
+	background-color: rgb(248,249,250);
+	margin-left:70px;
+	width: 300px;
+	height: 300px;
+}
+
+.pad{
+	padding-left: 50px;
+}
+footer{
+	padding-top: 50px;
+	background-color:rgb(52,58,64);
+	color:white;
+	height:250px;
+
+}
+.breadcrumb{
+	margin-left: 118px;
+	margin-right:158px;
+	height: 40px;
+}
